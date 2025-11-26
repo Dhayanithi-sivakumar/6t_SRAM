@@ -153,21 +153,6 @@ Fail-safe operation confirmed for supply voltages between 0.8V to 1.2V.
 
 Read/Write access times recorded in the order of tens of ps.
 
-### Layout Design (If Included)
-
-Compact layout created using Cadence Virtuoso Layout Editor.
-
-Shared diffusion regions used to reduce area.
-
-Word line routed with poly; bit lines routed using Metal-1/Metal-2.
-
-Final verification status:
-
-DRC = 0 errors
-
-LVS = matched
-
-Parasitic-extracted simulation shows slight delay increase due to RC components.
 
 ### Conclusion
 
